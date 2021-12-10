@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @Nex0z0
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on ...no one
-- 📫 How to reach me mail Noahcool01234@outlook.com
-
-<!---
-Nex0z0/Nex0z0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Hello im nex0z0 and im a mc player and if you want any of my texture pack you can download them here 
+https://www.mediafire.com/file/8if5myyhnl0a958/Nexoz_survival.zip/file
+https://www.mediafire.com/file/1cr7wwqh9g6pvre/nexoz_pack.zip/file
